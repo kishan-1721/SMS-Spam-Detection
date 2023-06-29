@@ -1,6 +1,5 @@
-$ pip install -U scikit-learn
 import streamlit as st
-import sklearn
+# import sklearn
 import pickle
 import string
 import re
